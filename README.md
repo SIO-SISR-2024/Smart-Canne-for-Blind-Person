@@ -1,8 +1,8 @@
-#Smart Canne
-##Smart stick for blind person
+# Smart Canne
+# #Smart stick for blind person
 
-###Inspired by Third Eye project by RobotTechMaker 
-###https://www.instructables.com/THIRD-EYE-FOR-BLINDS-an-Innovative-Wearable-Techno/
+### Inspired by Third Eye project by RobotTechMaker 
+### https://www.instructables.com/THIRD-EYE-FOR-BLINDS-an-Innovative-Wearable-Techno/
 
 Input Voltage : 9V DC
 Used Voltage  : 5V DC
