@@ -1,13 +1,13 @@
 # Smart Canne
-# #Smart stick for blind person
+## Smart stick for blind person
 
-### Inspired by Third Eye project by RobotTechMaker 
+### Inspired by my girlfriend and Third Eye project by RobotTechMaker
 ### https://www.instructables.com/THIRD-EYE-FOR-BLINDS-an-Innovative-Wearable-Techno/
 
 #### Input Voltage : 9V DC
 #### Used Voltage  : 5V DC
-#### Current       : 100 mA
-#### Power         : 500 mW
+#### Current       : 50 mA
+#### Power         : 250 mW
 #### Alert Voltage : 4.55V
 #### Stop Voltage  : 4.4V
 #### TRG PIN       : D5 PWM
