@@ -1,5 +1,5 @@
 # Smart Canne
-# #Smart stick for blind person
+## Smart stick for blind person
 
 ### Inspired by Third Eye project by RobotTechMaker and my girlfriend
 ### https://www.instructables.com/THIRD-EYE-FOR-BLINDS-an-Innovative-Wearable-Techno/
