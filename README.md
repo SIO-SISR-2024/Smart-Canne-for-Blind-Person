@@ -4,10 +4,9 @@
 ### Inspired by my girlfriend and Third Eye project by RobotTechMaker
 ### https://www.instructables.com/THIRD-EYE-FOR-BLINDS-an-Innovative-Wearable-Techno/
 
-#### Input Voltage : 9V DC
 #### Used Voltage  : 5V DC
-#### Current       : 50 mA
-#### Power         : 250 mW
+#### Current       : 82 mA
+#### Power         : 410 mW
 #### Alert Voltage : 4.55V
 #### Stop Voltage  : 4.4V
 #### TRG PIN       : D5 PWM
