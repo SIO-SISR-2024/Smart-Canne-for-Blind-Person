@@ -12,6 +12,7 @@
 #### TRG PIN       : D5 PWM
 #### Echo PIN      : D6 PWM
 #### Buzzer + PIN  : D3 PWM
+#### Vibration PIN : D9 PWM
 #### Voltage Tester: AO
 #### Stick size    : 1,20m
 
